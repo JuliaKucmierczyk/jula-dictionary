@@ -38,7 +38,7 @@ const Input = () => {
             id="button-addon2"
             onClick={() => getWord()}
           >
-            Button
+            Search
           </button>
         </div>
 
